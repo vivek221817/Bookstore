@@ -1,0 +1,101 @@
+[
+
+    {
+        "id":1,
+        "name":"Story Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":2,
+        "name":"Story Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":3,
+        "name":"Music Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Song",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":4,
+        "name":"Story Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":5,
+        "name":"Food Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":6,
+        "name":"Story Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":7,
+        "name":"Story Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":8,
+        "name":"Sports Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":9,
+        "name":"Story Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":10,
+        "name":"Comedy Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    },
+
+    {
+        "id":11,
+        "name":"Story Book",
+        "titile":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg?t=st=1719730615~exp=1719734215~hmac=09e3938e86f34b2d2e3c982d599b28098ac102187f1e095adc6d858df3212371&w=360"
+    }
+]
